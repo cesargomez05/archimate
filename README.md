@@ -13,6 +13,6 @@ Elaboración de 3 puntos de vista en Archimate para un sistema que permita reali
 ![organización](imagenes/organizacion.bmp)
 
 ## Punto de vista de las funciones de negocio
-![funciones](imagenes/funciones.bmp)
+![funciones](imagenes/funcionesNegocio.bmp)
 
 ## Punto de vista del proceso de negocio
