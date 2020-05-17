@@ -16,3 +16,4 @@ Elaboración de 3 puntos de vista en Archimate para un sistema que permita reali
 ![funciones](imagenes/funcionesNegocio.bmp)
 
 ## Punto de vista del proceso de negocio
+![funciones](imagenes/procesos.bmp)
