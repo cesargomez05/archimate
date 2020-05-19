@@ -17,3 +17,8 @@ Elaboración de 3 puntos de vista en Archimate para un sistema que permita reali
 
 ## Punto de vista del proceso de negocio
 ![funciones](imagenes/procesos.jpeg)
+
+## Punto de vista de la estructura de la aplicación
+![funciones](imagenes/estructura_aplicacion.jpeg)
+
+## Punto de vista del uso de la aplicación
