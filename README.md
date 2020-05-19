@@ -22,3 +22,4 @@ Elaboración de 3 puntos de vista en Archimate para un sistema que permita reali
 ![funciones](imagenes/estructura_aplicacion.bmp)
 
 ## Punto de vista del uso de la aplicación
+![funciones](imagenes/uso_aplicacion.bmp)
