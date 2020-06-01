@@ -30,5 +30,5 @@ Generalmente el desarrollo de la arquitectura  en las metodologías ágiles  es 
 
 Adicionalmente, a partir del modelo de capas Layered Viewpoint se puede resolver la necesidad de cualquier stakeholder de entender el propósito de un sistema y su implementación de una forma más simple. Además,este modelo es muy útil para el arquitecto ya que le permite analizar la coherencia de los elementos haciendo mas fácil una interacción entre las metodologías ágiles y la arquitectura del software.
 
-## Punto de vista del uso de infraestructura
+## Punto de vista de uso de infraestructura
 ![funciones](imagenes/InfrastructureUsage.jpg)
